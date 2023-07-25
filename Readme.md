@@ -1,0 +1,1 @@
+This a java desktop application with seperate business, data and presentation layers. The transfer of data between these layers is done by using DTO and POJO.
