@@ -1,0 +1,4 @@
+apply plugin: 'java'
+dependencies{
+implementation files('../common/dist/hr-common.jar')
+}
